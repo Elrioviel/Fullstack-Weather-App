@@ -1,0 +1,78 @@
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\appsettings.Development.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\appsettings.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.exe
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.deps.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.runtimeconfig.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.pdb
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.AssemblyReference.cache
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.AssemblyInfoInputs.cache
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.AssemblyInfo.cs
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.CoreCompileInputs.cache
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.WeatherApp_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherApp_API.props
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherApp_API.props
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherApp_API.props
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\scopedcss\bundle\WeatherApp_API.styles.css
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.CopyComplete
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\refint\WeatherApp_API.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.pdb
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.genruntimeconfig.cache
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\obj\Debug\net8.0\ref\WeatherApp_API.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\Dapper.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\WeatherApp\WeatherApp_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\appsettings.Development.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\appsettings.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.exe
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.deps.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.runtimeconfig.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\WeatherApp_API.pdb
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\Dapper.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.AssemblyReference.cache
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.AssemblyInfoInputs.cache
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.AssemblyInfo.cs
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.CoreCompileInputs.cache
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.WeatherApp_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.build.WeatherApp_API.props
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WeatherApp_API.props
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WeatherApp_API.props
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\scopedcss\bundle\WeatherApp_API.styles.css
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.csproj.CopyComplete
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\refint\WeatherApp_API.dll
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.pdb
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\WeatherApp_API.genruntimeconfig.cache
+E:\Practice for interview\Projects\Fullstack WeatherApp\WeatherApp_REST_API\WeatherApp_API\obj\Debug\net8.0\ref\WeatherApp_API.dll

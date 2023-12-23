@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Weather Application</title>
+</head>
+<body>
+   <h1>Weather Application</h1>
+   <!--Form to add weather data-->
+    <form id ="addWeatherForm">
+        <label for="datetime">Date and time:</label>
+        <input type="datetime-local" id="datetime" required>
+        <label for="country">Country:</label>
+        <input type="text" id="country" required>
+        <label for="city">City:</label>
+        <input type="text" id="city" required>
+        <label for="conditions">Weather conditions:</label>
+        <input type="text" id="conditions" required>
+        <label for="temperature">Temperature:</label>
+        <input type="number" id="temperature" required>
+        <button type="submit">Add Weather</button>
+    </form>
+    <div class="data-table">
+        <!--Buttons to sort table data asc or desc by date-->
+        <button id="sortAscBtn">Sort by Date Ascending</button>
+        <button id="sortDescBtn">Sort by Date Descending</button>
+        <!--Display weather data as table-->
+        <table id="weatherTable">
+            <thead>
+                <tr>
+                    <th>Date and Time</th>
+                    <th>Country</th>
+                    <th>City</th>
+                    <th>Weather Conditions</th>
+                    <th>Temperature</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <!--dynamically populate table with data-->
+            <tbody id="weatherData"></tbody>
+        </table>
+    </div>
+    <script src="js/main.js" defer></script>
+</body>
+</html>
